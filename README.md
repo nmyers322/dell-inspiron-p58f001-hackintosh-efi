@@ -1,2 +1,10 @@
-### Dell Inspiron P58f001 Hackintosh EFI
-For use with open core, catalina MacOS install on Dell Inspiron. Not tested yet.
+### Hackintosh boot partition
+
+Dell Inspiron 15 5568
+Intel core i7 6500U
+
+OpenCore EFI
+
+Known issues:
+* Screen brightness acts weird
+
